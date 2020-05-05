@@ -6,6 +6,9 @@ Data teams often need to build libraries and services to make it easier to work 
 
 Note,this project is a Chapter in the book Pragmatic AI, the entire projects source can be found [here](https://github.com/noahgift/pragmaticai)
 
+# Status
+[![CircleCI](https://circleci.com/gh/agostonp/containerization.svg?style=svg)](https://circleci.com/gh/agostonp/containerization)
+
 ## Using the default web app.
 The Swagger API has some pretty powerful tools built in.
 
